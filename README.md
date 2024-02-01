@@ -1,6 +1,6 @@
 # LeetCode-Repository
 <h1>LeetCode Solutions Repository</h1>
-Welcome to my LeetCode solutions repository! 🚀 As a passionate computer science student specializing in deep learning and aiming for a career in one of the FAANG companies, I've dedicated myself to honing my problem-solving skills through LeetCode.
+Welcome to my LeetCode solutions repository! 🚀 As a passionate computer science student specializing in Web development and deep learning and aiming for a career in one of the FAANG companies, I've dedicated myself to honing my problem-solving skills through LeetCode.
 
 <h1>About This Repository</h1>
 In this repository, you'll find a comprehensive collection of my solutions to various LeetCode problems. Each solution is meticulously crafted, leveraging the latest algorithms and data structures to ensure efficiency and elegance.
