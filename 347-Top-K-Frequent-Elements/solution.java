@@ -16,13 +16,14 @@ class Solution {
 
         int[] res = new int[k];
         int count = 0;
+                
         for(int pos=bucket.length-1; pos>=0 && count<k; pos--){
             if(bucket[pos] != null){
                 for(Integer i : bucket[pos]){
                     res[count++] = i;
                 }
             }
-        }
+        }        
         return res;
 
     }
